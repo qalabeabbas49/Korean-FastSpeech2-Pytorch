@@ -1,0 +1,136 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.1862585034013606
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.1862585034013606
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.440
+				text = ""
+			intervals [2]:
+				xmin = 0.440
+				xmax = 1.020
+				text = "정말"
+			intervals [3]:
+				xmin = 1.020
+				xmax = 1.440
+				text = ""
+			intervals [4]:
+				xmin = 1.440
+				xmax = 1.790
+				text = "믿을"
+			intervals [5]:
+				xmin = 1.790
+				xmax = 1.920
+				text = "수"
+			intervals [6]:
+				xmin = 1.920
+				xmax = 2.650
+				text = "없어"
+			intervals [7]:
+				xmin = 2.650
+				xmax = 3.1862585034013606
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.1862585034013606
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.440
+				text = "sil"
+			intervals [2]:
+				xmin = 0.440
+				xmax = 0.540
+				text = "ᄌ"
+			intervals [3]:
+				xmin = 0.540
+				xmax = 0.600
+				text = "ᅥ"
+			intervals [4]:
+				xmin = 0.600
+				xmax = 0.720
+				text = "ᆼ"
+			intervals [5]:
+				xmin = 0.720
+				xmax = 0.800
+				text = "ᄆ"
+			intervals [6]:
+				xmin = 0.800
+				xmax = 0.830
+				text = "ᅡ"
+			intervals [7]:
+				xmin = 0.830
+				xmax = 1.020
+				text = "ᆯ"
+			intervals [8]:
+				xmin = 1.020
+				xmax = 1.440
+				text = "sp"
+			intervals [9]:
+				xmin = 1.440
+				xmax = 1.560
+				text = "ᄆ"
+			intervals [10]:
+				xmin = 1.560
+				xmax = 1.630
+				text = "ᅵ"
+			intervals [11]:
+				xmin = 1.630
+				xmax = 1.680
+				text = "ᄃ"
+			intervals [12]:
+				xmin = 1.680
+				xmax = 1.720
+				text = "ᅳ"
+			intervals [13]:
+				xmin = 1.720
+				xmax = 1.790
+				text = "ᆯ"
+			intervals [14]:
+				xmin = 1.790
+				xmax = 1.880
+				text = "ᄉ"
+			intervals [15]:
+				xmin = 1.880
+				xmax = 1.920
+				text = "ᅮ"
+			intervals [16]:
+				xmin = 1.920
+				xmax = 1.980
+				text = "ᄋ"
+			intervals [17]:
+				xmin = 1.980
+				xmax = 2.020
+				text = "ᅥ"
+			intervals [18]:
+				xmin = 2.020
+				xmax = 2.110
+				text = "ᆸ"
+			intervals [19]:
+				xmin = 2.110
+				xmax = 2.250
+				text = "ᄊ"
+			intervals [20]:
+				xmin = 2.250
+				xmax = 2.650
+				text = "ᅥ"
+			intervals [21]:
+				xmin = 2.650
+				xmax = 3.170
+				text = "sp"
+			intervals [22]:
+				xmin = 3.170
+				xmax = 3.1862585034013606
+				text = ""

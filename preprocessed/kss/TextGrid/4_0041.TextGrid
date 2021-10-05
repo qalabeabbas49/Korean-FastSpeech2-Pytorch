@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.182675736961451
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.182675736961451
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.420
+				text = ""
+			intervals [2]:
+				xmin = 0.420
+				xmax = 0.760
+				text = "물"
+			intervals [3]:
+				xmin = 0.760
+				xmax = 0.900
+				text = "좀"
+			intervals [4]:
+				xmin = 0.900
+				xmax = 1.210
+				text = "아껴"
+			intervals [5]:
+				xmin = 1.210
+				xmax = 1.850
+				text = "써라"
+			intervals [6]:
+				xmin = 1.850
+				xmax = 2.182675736961451
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.182675736961451
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.420
+				text = "sil"
+			intervals [2]:
+				xmin = 0.420
+				xmax = 0.600
+				text = "ᄆ"
+			intervals [3]:
+				xmin = 0.600
+				xmax = 0.700
+				text = "ᅮ"
+			intervals [4]:
+				xmin = 0.700
+				xmax = 0.760
+				text = "ᆯ"
+			intervals [5]:
+				xmin = 0.760
+				xmax = 0.800
+				text = "ᄌ"
+			intervals [6]:
+				xmin = 0.800
+				xmax = 0.870
+				text = "ᅩ"
+			intervals [7]:
+				xmin = 0.870
+				xmax = 0.900
+				text = "ᆷ"
+			intervals [8]:
+				xmin = 0.900
+				xmax = 0.970
+				text = "ᄋ"
+			intervals [9]:
+				xmin = 0.970
+				xmax = 1.050
+				text = "ᅡ"
+			intervals [10]:
+				xmin = 1.050
+				xmax = 1.140
+				text = "ᄁ"
+			intervals [11]:
+				xmin = 1.140
+				xmax = 1.210
+				text = "ᅧ"
+			intervals [12]:
+				xmin = 1.210
+				xmax = 1.310
+				text = "ᄊ"
+			intervals [13]:
+				xmin = 1.310
+				xmax = 1.430
+				text = "ᅥ"
+			intervals [14]:
+				xmin = 1.430
+				xmax = 1.530
+				text = "ᄅ"
+			intervals [15]:
+				xmin = 1.530
+				xmax = 1.850
+				text = "ᅡ"
+			intervals [16]:
+				xmin = 1.850
+				xmax = 2.170
+				text = "sp"
+			intervals [17]:
+				xmin = 2.170
+				xmax = 2.182675736961451
+				text = ""

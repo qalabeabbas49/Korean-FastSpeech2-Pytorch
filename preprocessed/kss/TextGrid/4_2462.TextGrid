@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.3751020408163264
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.3751020408163264
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.670
+				text = ""
+			intervals [2]:
+				xmin = 0.670
+				xmax = 1.150
+				text = "일은"
+			intervals [3]:
+				xmin = 1.150
+				xmax = 1.270
+				text = "다"
+			intervals [4]:
+				xmin = 1.270
+				xmax = 2.030
+				text = "끝났니"
+			intervals [5]:
+				xmin = 2.030
+				xmax = 2.3751020408163264
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.3751020408163264
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.670
+				text = "sil"
+			intervals [2]:
+				xmin = 0.670
+				xmax = 0.900
+				text = "ᄋ"
+			intervals [3]:
+				xmin = 0.900
+				xmax = 0.970
+				text = "ᅵ"
+			intervals [4]:
+				xmin = 0.970
+				xmax = 1.030
+				text = "ᄅ"
+			intervals [5]:
+				xmin = 1.030
+				xmax = 1.080
+				text = "ᅳ"
+			intervals [6]:
+				xmin = 1.080
+				xmax = 1.150
+				text = "ᆫ"
+			intervals [7]:
+				xmin = 1.150
+				xmax = 1.210
+				text = "ᄃ"
+			intervals [8]:
+				xmin = 1.210
+				xmax = 1.270
+				text = "ᅡ"
+			intervals [9]:
+				xmin = 1.270
+				xmax = 1.370
+				text = "ᄁ"
+			intervals [10]:
+				xmin = 1.370
+				xmax = 1.420
+				text = "ᅳ"
+			intervals [11]:
+				xmin = 1.420
+				xmax = 1.490
+				text = "ᆫ"
+			intervals [12]:
+				xmin = 1.490
+				xmax = 1.540
+				text = "ᄂ"
+			intervals [13]:
+				xmin = 1.540
+				xmax = 1.620
+				text = "ᅡ"
+			intervals [14]:
+				xmin = 1.620
+				xmax = 1.730
+				text = "ᆫ"
+			intervals [15]:
+				xmin = 1.730
+				xmax = 1.800
+				text = "ᄂ"
+			intervals [16]:
+				xmin = 1.800
+				xmax = 2.030
+				text = "ᅵ"
+			intervals [17]:
+				xmin = 2.030
+				xmax = 2.360
+				text = "sp"
+			intervals [18]:
+				xmin = 2.360
+				xmax = 2.3751020408163264
+				text = ""

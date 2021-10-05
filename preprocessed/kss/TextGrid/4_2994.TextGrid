@@ -1,0 +1,96 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.9040362811791383
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.9040362811791383
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.350
+				text = ""
+			intervals [2]:
+				xmin = 0.350
+				xmax = 0.790
+				text = "벌써"
+			intervals [3]:
+				xmin = 0.790
+				xmax = 1.890
+				text = "지쳤어요"
+			intervals [4]:
+				xmin = 1.890
+				xmax = 1.9040362811791383
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.9040362811791383
+		intervals: size = 15
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.350
+				text = "sil"
+			intervals [2]:
+				xmin = 0.350
+				xmax = 0.540
+				text = "ᄇ"
+			intervals [3]:
+				xmin = 0.540
+				xmax = 0.590
+				text = "ᅥ"
+			intervals [4]:
+				xmin = 0.590
+				xmax = 0.640
+				text = "ᆯ"
+			intervals [5]:
+				xmin = 0.640
+				xmax = 0.710
+				text = "ᄊ"
+			intervals [6]:
+				xmin = 0.710
+				xmax = 0.790
+				text = "ᅥ"
+			intervals [7]:
+				xmin = 0.790
+				xmax = 0.850
+				text = "ᄌ"
+			intervals [8]:
+				xmin = 0.850
+				xmax = 0.920
+				text = "ᅵ"
+			intervals [9]:
+				xmin = 0.920
+				xmax = 1.020
+				text = "ᄎ"
+			intervals [10]:
+				xmin = 1.020
+				xmax = 1.080
+				text = "ᅥ"
+			intervals [11]:
+				xmin = 1.080
+				xmax = 1.200
+				text = "ᄊ"
+			intervals [12]:
+				xmin = 1.200
+				xmax = 1.310
+				text = "ᅥ"
+			intervals [13]:
+				xmin = 1.310
+				xmax = 1.530
+				text = "ᄋ"
+			intervals [14]:
+				xmin = 1.530
+				xmax = 1.890
+				text = "ᅭ"
+			intervals [15]:
+				xmin = 1.890
+				xmax = 1.9040362811791383
+				text = ""

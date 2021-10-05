@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.728798185941043
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.728798185941043
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.230
+				text = ""
+			intervals [2]:
+				xmin = 0.230
+				xmax = 0.630
+				text = "뭘"
+			intervals [3]:
+				xmin = 0.630
+				xmax = 0.870
+				text = "도와"
+			intervals [4]:
+				xmin = 0.870
+				xmax = 1.610
+				text = "드릴까요"
+			intervals [5]:
+				xmin = 1.610
+				xmax = 1.728798185941043
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.728798185941043
+		intervals: size = 19
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.230
+				text = "sil"
+			intervals [2]:
+				xmin = 0.230
+				xmax = 0.390
+				text = "ᄆ"
+			intervals [3]:
+				xmin = 0.390
+				xmax = 0.530
+				text = "ᅯ"
+			intervals [4]:
+				xmin = 0.530
+				xmax = 0.630
+				text = "ᆯ"
+			intervals [5]:
+				xmin = 0.630
+				xmax = 0.690
+				text = "ᄃ"
+			intervals [6]:
+				xmin = 0.690
+				xmax = 0.750
+				text = "ᅩ"
+			intervals [7]:
+				xmin = 0.750
+				xmax = 0.780
+				text = "ᄋ"
+			intervals [8]:
+				xmin = 0.780
+				xmax = 0.870
+				text = "ᅪ"
+			intervals [9]:
+				xmin = 0.870
+				xmax = 0.920
+				text = "ᄃ"
+			intervals [10]:
+				xmin = 0.920
+				xmax = 0.980
+				text = "ᅳ"
+			intervals [11]:
+				xmin = 0.980
+				xmax = 1.030
+				text = "ᄅ"
+			intervals [12]:
+				xmin = 1.030
+				xmax = 1.070
+				text = "ᅵ"
+			intervals [13]:
+				xmin = 1.070
+				xmax = 1.130
+				text = "ᆯ"
+			intervals [14]:
+				xmin = 1.130
+				xmax = 1.220
+				text = "ᄁ"
+			intervals [15]:
+				xmin = 1.220
+				xmax = 1.390
+				text = "ᅡ"
+			intervals [16]:
+				xmin = 1.390
+				xmax = 1.560
+				text = "ᄋ"
+			intervals [17]:
+				xmin = 1.560
+				xmax = 1.610
+				text = "ᅭ"
+			intervals [18]:
+				xmin = 1.610
+				xmax = 1.710
+				text = "sp"
+			intervals [19]:
+				xmin = 1.710
+				xmax = 1.728798185941043
+				text = ""

@@ -1,0 +1,224 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.9938321995464854
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.9938321995464854
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.640
+				text = ""
+			intervals [2]:
+				xmin = 0.640
+				xmax = 1.110
+				text = "영어로"
+			intervals [3]:
+				xmin = 1.110
+				xmax = 1.590
+				text = "의사를"
+			intervals [4]:
+				xmin = 1.590
+				xmax = 2.120
+				text = "전달하지"
+			intervals [5]:
+				xmin = 2.120
+				xmax = 2.610
+				text = "못해"
+			intervals [6]:
+				xmin = 2.610
+				xmax = 2.650
+				text = ""
+			intervals [7]:
+				xmin = 2.650
+				xmax = 3.830
+				text = "답답했어요"
+			intervals [8]:
+				xmin = 3.830
+				xmax = 3.9938321995464854
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.9938321995464854
+		intervals: size = 43
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.640
+				text = "sil"
+			intervals [2]:
+				xmin = 0.640
+				xmax = 0.790
+				text = "ᄋ"
+			intervals [3]:
+				xmin = 0.790
+				xmax = 0.860
+				text = "ᅧ"
+			intervals [4]:
+				xmin = 0.860
+				xmax = 0.900
+				text = "ᆼ"
+			intervals [5]:
+				xmin = 0.900
+				xmax = 0.980
+				text = "ᄋ"
+			intervals [6]:
+				xmin = 0.980
+				xmax = 1.020
+				text = "ᅥ"
+			intervals [7]:
+				xmin = 1.020
+				xmax = 1.060
+				text = "ᄅ"
+			intervals [8]:
+				xmin = 1.060
+				xmax = 1.110
+				text = "ᅩ"
+			intervals [9]:
+				xmin = 1.110
+				xmax = 1.150
+				text = "ᄋ"
+			intervals [10]:
+				xmin = 1.150
+				xmax = 1.260
+				text = "ᅴ"
+			intervals [11]:
+				xmin = 1.260
+				xmax = 1.340
+				text = "ᄉ"
+			intervals [12]:
+				xmin = 1.340
+				xmax = 1.440
+				text = "ᅡ"
+			intervals [13]:
+				xmin = 1.440
+				xmax = 1.490
+				text = "ᄅ"
+			intervals [14]:
+				xmin = 1.490
+				xmax = 1.540
+				text = "ᅳ"
+			intervals [15]:
+				xmin = 1.540
+				xmax = 1.590
+				text = "ᆯ"
+			intervals [16]:
+				xmin = 1.590
+				xmax = 1.650
+				text = "ᄌ"
+			intervals [17]:
+				xmin = 1.650
+				xmax = 1.720
+				text = "ᅥ"
+			intervals [18]:
+				xmin = 1.720
+				xmax = 1.780
+				text = "ᆫ"
+			intervals [19]:
+				xmin = 1.780
+				xmax = 1.850
+				text = "ᄃ"
+			intervals [20]:
+				xmin = 1.850
+				xmax = 1.880
+				text = "ᅡ"
+			intervals [21]:
+				xmin = 1.880
+				xmax = 1.920
+				text = "ᆯ"
+			intervals [22]:
+				xmin = 1.920
+				xmax = 1.960
+				text = "ᄒ"
+			intervals [23]:
+				xmin = 1.960
+				xmax = 2.020
+				text = "ᅡ"
+			intervals [24]:
+				xmin = 2.020
+				xmax = 2.080
+				text = "ᄌ"
+			intervals [25]:
+				xmin = 2.080
+				xmax = 2.120
+				text = "ᅵ"
+			intervals [26]:
+				xmin = 2.120
+				xmax = 2.200
+				text = "ᄆ"
+			intervals [27]:
+				xmin = 2.200
+				xmax = 2.270
+				text = "ᅩ"
+			intervals [28]:
+				xmin = 2.270
+				xmax = 2.430
+				text = "ᄐ"
+			intervals [29]:
+				xmin = 2.430
+				xmax = 2.610
+				text = "ᅢ"
+			intervals [30]:
+				xmin = 2.610
+				xmax = 2.650
+				text = "sp"
+			intervals [31]:
+				xmin = 2.650
+				xmax = 2.740
+				text = "ᄃ"
+			intervals [32]:
+				xmin = 2.740
+				xmax = 2.790
+				text = "ᅡ"
+			intervals [33]:
+				xmin = 2.790
+				xmax = 2.840
+				text = "ᆸ"
+			intervals [34]:
+				xmin = 2.840
+				xmax = 2.900
+				text = "ᄄ"
+			intervals [35]:
+				xmin = 2.900
+				xmax = 2.970
+				text = "ᅡ"
+			intervals [36]:
+				xmin = 2.970
+				xmax = 3.060
+				text = "ᄑ"
+			intervals [37]:
+				xmin = 3.060
+				xmax = 3.110
+				text = "ᅢ"
+			intervals [38]:
+				xmin = 3.110
+				xmax = 3.220
+				text = "ᄊ"
+			intervals [39]:
+				xmin = 3.220
+				xmax = 3.380
+				text = "ᅥ"
+			intervals [40]:
+				xmin = 3.380
+				xmax = 3.690
+				text = "ᄋ"
+			intervals [41]:
+				xmin = 3.690
+				xmax = 3.830
+				text = "ᅭ"
+			intervals [42]:
+				xmin = 3.830
+				xmax = 3.980
+				text = "sp"
+			intervals [43]:
+				xmin = 3.980
+				xmax = 3.9938321995464854
+				text = ""

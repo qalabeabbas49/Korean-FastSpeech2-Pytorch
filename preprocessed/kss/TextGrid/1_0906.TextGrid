@@ -1,0 +1,224 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 3.3104308390022674
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 3.3104308390022674
+		intervals: size = 7
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.610
+				text = "이메일을"
+			intervals [2]:
+				xmin = 0.610
+				xmax = 1.380
+				text = "보내다가"
+			intervals [3]:
+				xmin = 1.380
+				xmax = 1.560
+				text = ""
+			intervals [4]:
+				xmin = 1.560
+				xmax = 2.200
+				text = "실수하신"
+			intervals [5]:
+				xmin = 2.200
+				xmax = 2.420
+				text = "적이"
+			intervals [6]:
+				xmin = 2.420
+				xmax = 3.260
+				text = "있습니까"
+			intervals [7]:
+				xmin = 3.260
+				xmax = 3.3104308390022674
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 3.3104308390022674
+		intervals: size = 44
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.160
+				text = "ᄋ"
+			intervals [2]:
+				xmin = 0.160
+				xmax = 0.260
+				text = "ᅵ"
+			intervals [3]:
+				xmin = 0.260
+				xmax = 0.320
+				text = "ᄆ"
+			intervals [4]:
+				xmin = 0.320
+				xmax = 0.350
+				text = "ᅦ"
+			intervals [5]:
+				xmin = 0.350
+				xmax = 0.430
+				text = "ᄋ"
+			intervals [6]:
+				xmin = 0.430
+				xmax = 0.470
+				text = "ᅵ"
+			intervals [7]:
+				xmin = 0.470
+				xmax = 0.520
+				text = "ᄅ"
+			intervals [8]:
+				xmin = 0.520
+				xmax = 0.560
+				text = "ᅳ"
+			intervals [9]:
+				xmin = 0.560
+				xmax = 0.610
+				text = "ᆯ"
+			intervals [10]:
+				xmin = 0.610
+				xmax = 0.670
+				text = "ᄇ"
+			intervals [11]:
+				xmin = 0.670
+				xmax = 0.730
+				text = "ᅩ"
+			intervals [12]:
+				xmin = 0.730
+				xmax = 0.780
+				text = "ᄂ"
+			intervals [13]:
+				xmin = 0.780
+				xmax = 0.880
+				text = "ᅢ"
+			intervals [14]:
+				xmin = 0.880
+				xmax = 0.960
+				text = "ᄃ"
+			intervals [15]:
+				xmin = 0.960
+				xmax = 1.050
+				text = "ᅡ"
+			intervals [16]:
+				xmin = 1.050
+				xmax = 1.140
+				text = "ᄀ"
+			intervals [17]:
+				xmin = 1.140
+				xmax = 1.380
+				text = "ᅡ"
+			intervals [18]:
+				xmin = 1.380
+				xmax = 1.560
+				text = "sp"
+			intervals [19]:
+				xmin = 1.560
+				xmax = 1.710
+				text = "ᄉ"
+			intervals [20]:
+				xmin = 1.710
+				xmax = 1.750
+				text = "ᅵ"
+			intervals [21]:
+				xmin = 1.750
+				xmax = 1.800
+				text = "ᆯ"
+			intervals [22]:
+				xmin = 1.800
+				xmax = 1.900
+				text = "ᄉ"
+			intervals [23]:
+				xmin = 1.900
+				xmax = 1.930
+				text = "ᅮ"
+			intervals [24]:
+				xmin = 1.930
+				xmax = 1.960
+				text = "ᄒ"
+			intervals [25]:
+				xmin = 1.960
+				xmax = 2.010
+				text = "ᅡ"
+			intervals [26]:
+				xmin = 2.010
+				xmax = 2.090
+				text = "ᄉ"
+			intervals [27]:
+				xmin = 2.090
+				xmax = 2.140
+				text = "ᅵ"
+			intervals [28]:
+				xmin = 2.140
+				xmax = 2.200
+				text = "ᆫ"
+			intervals [29]:
+				xmin = 2.200
+				xmax = 2.250
+				text = "ᄌ"
+			intervals [30]:
+				xmin = 2.250
+				xmax = 2.330
+				text = "ᅥ"
+			intervals [31]:
+				xmin = 2.330
+				xmax = 2.390
+				text = "ᄀ"
+			intervals [32]:
+				xmin = 2.390
+				xmax = 2.420
+				text = "ᅵ"
+			intervals [33]:
+				xmin = 2.420
+				xmax = 2.510
+				text = "ᄋ"
+			intervals [34]:
+				xmin = 2.510
+				xmax = 2.540
+				text = "ᅵ"
+			intervals [35]:
+				xmin = 2.540
+				xmax = 2.570
+				text = "ᆮ"
+			intervals [36]:
+				xmin = 2.570
+				xmax = 2.660
+				text = "ᄊ"
+			intervals [37]:
+				xmin = 2.660
+				xmax = 2.720
+				text = "ᅳ"
+			intervals [38]:
+				xmin = 2.720
+				xmax = 2.810
+				text = "ᆷ"
+			intervals [39]:
+				xmin = 2.810
+				xmax = 2.850
+				text = "ᄂ"
+			intervals [40]:
+				xmin = 2.850
+				xmax = 2.930
+				text = "ᅵ"
+			intervals [41]:
+				xmin = 2.930
+				xmax = 3.060
+				text = "ᄁ"
+			intervals [42]:
+				xmin = 3.060
+				xmax = 3.260
+				text = "ᅡ"
+			intervals [43]:
+				xmin = 3.260
+				xmax = 3.300
+				text = "sp"
+			intervals [44]:
+				xmin = 3.300
+				xmax = 3.3104308390022674
+				text = ""

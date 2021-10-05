@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.414875283446712
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.414875283446712
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.570
+				text = ""
+			intervals [2]:
+				xmin = 0.570
+				xmax = 1.110
+				text = "이제"
+			intervals [3]:
+				xmin = 1.110
+				xmax = 1.410
+				text = "집에"
+			intervals [4]:
+				xmin = 1.410
+				xmax = 1.680
+				text = "가도"
+			intervals [5]:
+				xmin = 1.680
+				xmax = 2.400
+				text = "돼요"
+			intervals [6]:
+				xmin = 2.400
+				xmax = 2.414875283446712
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.414875283446712
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.570
+				text = "sil"
+			intervals [2]:
+				xmin = 0.570
+				xmax = 0.830
+				text = "ᄋ"
+			intervals [3]:
+				xmin = 0.830
+				xmax = 0.920
+				text = "ᅵ"
+			intervals [4]:
+				xmin = 0.920
+				xmax = 0.980
+				text = "ᄌ"
+			intervals [5]:
+				xmin = 0.980
+				xmax = 1.110
+				text = "ᅦ"
+			intervals [6]:
+				xmin = 1.110
+				xmax = 1.240
+				text = "ᄌ"
+			intervals [7]:
+				xmin = 1.240
+				xmax = 1.280
+				text = "ᅵ"
+			intervals [8]:
+				xmin = 1.280
+				xmax = 1.340
+				text = "ᄇ"
+			intervals [9]:
+				xmin = 1.340
+				xmax = 1.410
+				text = "ᅦ"
+			intervals [10]:
+				xmin = 1.410
+				xmax = 1.490
+				text = "ᄀ"
+			intervals [11]:
+				xmin = 1.490
+				xmax = 1.580
+				text = "ᅡ"
+			intervals [12]:
+				xmin = 1.580
+				xmax = 1.630
+				text = "ᄃ"
+			intervals [13]:
+				xmin = 1.630
+				xmax = 1.680
+				text = "ᅩ"
+			intervals [14]:
+				xmin = 1.680
+				xmax = 1.760
+				text = "ᄃ"
+			intervals [15]:
+				xmin = 1.760
+				xmax = 1.880
+				text = "ᅫ"
+			intervals [16]:
+				xmin = 1.880
+				xmax = 2.060
+				text = "ᄋ"
+			intervals [17]:
+				xmin = 2.060
+				xmax = 2.400
+				text = "ᅭ"
+			intervals [18]:
+				xmin = 2.400
+				xmax = 2.414875283446712
+				text = ""

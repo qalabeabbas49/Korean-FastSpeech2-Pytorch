@@ -15,8 +15,9 @@ def main():
     out_dir = hp.preprocessed_path
     meta = hp.meta_name
     textgrid_name = hp.textgrid_name
-
+    
     mel_out_dir = os.path.join(out_dir, "mel")
+    
     if not os.path.exists(mel_out_dir):
         os.makedirs(mel_out_dir, exist_ok=True)
 

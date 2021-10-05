@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.7399546485260773
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.7399546485260773
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.450
+				text = ""
+			intervals [2]:
+				xmin = 0.450
+				xmax = 1.210
+				text = "컵과"
+			intervals [3]:
+				xmin = 1.210
+				xmax = 1.240
+				text = ""
+			intervals [4]:
+				xmin = 1.240
+				xmax = 1.570
+				text = "컵"
+			intervals [5]:
+				xmin = 1.570
+				xmax = 2.210
+				text = "받침"
+			intervals [6]:
+				xmin = 2.210
+				xmax = 2.7399546485260773
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.7399546485260773
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.450
+				text = "sil"
+			intervals [2]:
+				xmin = 0.450
+				xmax = 0.660
+				text = "ᄏ"
+			intervals [3]:
+				xmin = 0.660
+				xmax = 0.700
+				text = "ᅥ"
+			intervals [4]:
+				xmin = 0.700
+				xmax = 0.920
+				text = "ᆸ"
+			intervals [5]:
+				xmin = 0.920
+				xmax = 0.990
+				text = "ᄁ"
+			intervals [6]:
+				xmin = 0.990
+				xmax = 1.210
+				text = "ᅪ"
+			intervals [7]:
+				xmin = 1.210
+				xmax = 1.240
+				text = "sp"
+			intervals [8]:
+				xmin = 1.240
+				xmax = 1.410
+				text = "ᄏ"
+			intervals [9]:
+				xmin = 1.410
+				xmax = 1.470
+				text = "ᅥ"
+			intervals [10]:
+				xmin = 1.470
+				xmax = 1.570
+				text = "ᆸ"
+			intervals [11]:
+				xmin = 1.570
+				xmax = 1.640
+				text = "ᄇ"
+			intervals [12]:
+				xmin = 1.640
+				xmax = 1.700
+				text = "ᅡ"
+			intervals [13]:
+				xmin = 1.700
+				xmax = 1.800
+				text = "ᆮ"
+			intervals [14]:
+				xmin = 1.800
+				xmax = 1.950
+				text = "ᄎ"
+			intervals [15]:
+				xmin = 1.950
+				xmax = 2.000
+				text = "ᅵ"
+			intervals [16]:
+				xmin = 2.000
+				xmax = 2.210
+				text = "ᆷ"
+			intervals [17]:
+				xmin = 2.210
+				xmax = 2.7399546485260773
+				text = "sp"

@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.507755102040816
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.507755102040816
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.660
+				text = ""
+			intervals [2]:
+				xmin = 0.660
+				xmax = 1.080
+				text = "가득"
+			intervals [3]:
+				xmin = 1.080
+				xmax = 1.340
+				text = "넣어"
+			intervals [4]:
+				xmin = 1.340
+				xmax = 2.430
+				text = "주세요"
+			intervals [5]:
+				xmin = 2.430
+				xmax = 2.507755102040816
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.507755102040816
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.660
+				text = "sil"
+			intervals [2]:
+				xmin = 0.660
+				xmax = 0.800
+				text = "ᄀ"
+			intervals [3]:
+				xmin = 0.800
+				xmax = 0.900
+				text = "ᅡ"
+			intervals [4]:
+				xmin = 0.900
+				xmax = 0.960
+				text = "ᄃ"
+			intervals [5]:
+				xmin = 0.960
+				xmax = 1.000
+				text = "ᅳ"
+			intervals [6]:
+				xmin = 1.000
+				xmax = 1.080
+				text = "ᆨ"
+			intervals [7]:
+				xmin = 1.080
+				xmax = 1.140
+				text = "ᄂ"
+			intervals [8]:
+				xmin = 1.140
+				xmax = 1.220
+				text = "ᅥ"
+			intervals [9]:
+				xmin = 1.220
+				xmax = 1.270
+				text = "ᄋ"
+			intervals [10]:
+				xmin = 1.270
+				xmax = 1.340
+				text = "ᅥ"
+			intervals [11]:
+				xmin = 1.340
+				xmax = 1.390
+				text = "ᄌ"
+			intervals [12]:
+				xmin = 1.390
+				xmax = 1.450
+				text = "ᅮ"
+			intervals [13]:
+				xmin = 1.450
+				xmax = 1.520
+				text = "ᄉ"
+			intervals [14]:
+				xmin = 1.520
+				xmax = 1.690
+				text = "ᅦ"
+			intervals [15]:
+				xmin = 1.690
+				xmax = 1.910
+				text = "ᄋ"
+			intervals [16]:
+				xmin = 1.910
+				xmax = 2.430
+				text = "ᅭ"
+			intervals [17]:
+				xmin = 2.430
+				xmax = 2.490
+				text = "sp"
+			intervals [18]:
+				xmin = 2.490
+				xmax = 2.507755102040816
+				text = ""

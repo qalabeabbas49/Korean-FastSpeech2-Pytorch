@@ -1,0 +1,224 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 4.922630385487528
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 4.922630385487528
+		intervals: size = 8
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.070
+				text = ""
+			intervals [2]:
+				xmin = 1.070
+				xmax = 1.750
+				text = "엘리베이터가"
+			intervals [3]:
+				xmin = 1.750
+				xmax = 2.680
+				text = "멈췄어"
+			intervals [4]:
+				xmin = 2.680
+				xmax = 2.720
+				text = ""
+			intervals [5]:
+				xmin = 2.720
+				xmax = 3.260
+				text = "관리인을"
+			intervals [6]:
+				xmin = 3.260
+				xmax = 3.690
+				text = "불러야"
+			intervals [7]:
+				xmin = 3.690
+				xmax = 4.090
+				text = "해"
+			intervals [8]:
+				xmin = 4.090
+				xmax = 4.922630385487528
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 4.922630385487528
+		intervals: size = 43
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.070
+				text = "sil"
+			intervals [2]:
+				xmin = 1.070
+				xmax = 1.130
+				text = "ᄋ"
+			intervals [3]:
+				xmin = 1.130
+				xmax = 1.210
+				text = "ᅦ"
+			intervals [4]:
+				xmin = 1.210
+				xmax = 1.240
+				text = "ᆯ"
+			intervals [5]:
+				xmin = 1.240
+				xmax = 1.320
+				text = "ᄅ"
+			intervals [6]:
+				xmin = 1.320
+				xmax = 1.360
+				text = "ᅵ"
+			intervals [7]:
+				xmin = 1.360
+				xmax = 1.410
+				text = "ᄇ"
+			intervals [8]:
+				xmin = 1.410
+				xmax = 1.440
+				text = "ᅦ"
+			intervals [9]:
+				xmin = 1.440
+				xmax = 1.470
+				text = "ᄋ"
+			intervals [10]:
+				xmin = 1.470
+				xmax = 1.530
+				text = "ᅵ"
+			intervals [11]:
+				xmin = 1.530
+				xmax = 1.600
+				text = "ᄐ"
+			intervals [12]:
+				xmin = 1.600
+				xmax = 1.640
+				text = "ᅥ"
+			intervals [13]:
+				xmin = 1.640
+				xmax = 1.700
+				text = "ᄀ"
+			intervals [14]:
+				xmin = 1.700
+				xmax = 1.750
+				text = "ᅡ"
+			intervals [15]:
+				xmin = 1.750
+				xmax = 1.850
+				text = "ᄆ"
+			intervals [16]:
+				xmin = 1.850
+				xmax = 1.910
+				text = "ᅥ"
+			intervals [17]:
+				xmin = 1.910
+				xmax = 1.990
+				text = "ᆷ"
+			intervals [18]:
+				xmin = 1.990
+				xmax = 2.060
+				text = "ᄎ"
+			intervals [19]:
+				xmin = 2.060
+				xmax = 2.130
+				text = "ᅯ"
+			intervals [20]:
+				xmin = 2.130
+				xmax = 2.280
+				text = "ᄊ"
+			intervals [21]:
+				xmin = 2.280
+				xmax = 2.680
+				text = "ᅥ"
+			intervals [22]:
+				xmin = 2.680
+				xmax = 2.720
+				text = "sp"
+			intervals [23]:
+				xmin = 2.720
+				xmax = 2.820
+				text = "ᄀ"
+			intervals [24]:
+				xmin = 2.820
+				xmax = 2.880
+				text = "ᅪ"
+			intervals [25]:
+				xmin = 2.880
+				xmax = 2.970
+				text = "ᆯ"
+			intervals [26]:
+				xmin = 2.970
+				xmax = 3.030
+				text = "ᄅ"
+			intervals [27]:
+				xmin = 3.030
+				xmax = 3.060
+				text = "ᅵ"
+			intervals [28]:
+				xmin = 3.060
+				xmax = 3.090
+				text = "ᄋ"
+			intervals [29]:
+				xmin = 3.090
+				xmax = 3.130
+				text = "ᅵ"
+			intervals [30]:
+				xmin = 3.130
+				xmax = 3.180
+				text = "ᄂ"
+			intervals [31]:
+				xmin = 3.180
+				xmax = 3.210
+				text = "ᅳ"
+			intervals [32]:
+				xmin = 3.210
+				xmax = 3.260
+				text = "ᆯ"
+			intervals [33]:
+				xmin = 3.260
+				xmax = 3.330
+				text = "ᄇ"
+			intervals [34]:
+				xmin = 3.330
+				xmax = 3.380
+				text = "ᅮ"
+			intervals [35]:
+				xmin = 3.380
+				xmax = 3.440
+				text = "ᆯ"
+			intervals [36]:
+				xmin = 3.440
+				xmax = 3.490
+				text = "ᄅ"
+			intervals [37]:
+				xmin = 3.490
+				xmax = 3.560
+				text = "ᅥ"
+			intervals [38]:
+				xmin = 3.560
+				xmax = 3.590
+				text = "ᄋ"
+			intervals [39]:
+				xmin = 3.590
+				xmax = 3.690
+				text = "ᅣ"
+			intervals [40]:
+				xmin = 3.690
+				xmax = 3.780
+				text = "ᄒ"
+			intervals [41]:
+				xmin = 3.780
+				xmax = 4.090
+				text = "ᅢ"
+			intervals [42]:
+				xmin = 4.090
+				xmax = 4.910
+				text = "sp"
+			intervals [43]:
+				xmin = 4.910
+				xmax = 4.922630385487528
+				text = ""

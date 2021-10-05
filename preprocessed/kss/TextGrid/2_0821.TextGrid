@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.81859410430839
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 2.81859410430839
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 1.150
+				text = ""
+			intervals [2]:
+				xmin = 1.150
+				xmax = 1.600
+				text = "우스운"
+			intervals [3]:
+				xmin = 1.600
+				xmax = 1.880
+				text = "얘기"
+			intervals [4]:
+				xmin = 1.880
+				xmax = 2.010
+				text = "해"
+			intervals [5]:
+				xmin = 2.010
+				xmax = 2.310
+				text = "줘"
+			intervals [6]:
+				xmin = 2.310
+				xmax = 2.81859410430839
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 2.81859410430839
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0.000
+				xmax = 1.150
+				text = "sil"
+			intervals [2]:
+				xmin = 1.150
+				xmax = 1.240
+				text = "ᄋ"
+			intervals [3]:
+				xmin = 1.240
+				xmax = 1.360
+				text = "ᅮ"
+			intervals [4]:
+				xmin = 1.360
+				xmax = 1.430
+				text = "ᄉ"
+			intervals [5]:
+				xmin = 1.430
+				xmax = 1.480
+				text = "ᅳ"
+			intervals [6]:
+				xmin = 1.480
+				xmax = 1.510
+				text = "ᄋ"
+			intervals [7]:
+				xmin = 1.510
+				xmax = 1.540
+				text = "ᅮ"
+			intervals [8]:
+				xmin = 1.540
+				xmax = 1.600
+				text = "ᆫ"
+			intervals [9]:
+				xmin = 1.600
+				xmax = 1.640
+				text = "ᄋ"
+			intervals [10]:
+				xmin = 1.640
+				xmax = 1.720
+				text = "ᅤ"
+			intervals [11]:
+				xmin = 1.720
+				xmax = 1.830
+				text = "ᄀ"
+			intervals [12]:
+				xmin = 1.830
+				xmax = 1.880
+				text = "ᅵ"
+			intervals [13]:
+				xmin = 1.880
+				xmax = 1.960
+				text = "ᄒ"
+			intervals [14]:
+				xmin = 1.960
+				xmax = 2.010
+				text = "ᅢ"
+			intervals [15]:
+				xmin = 2.010
+				xmax = 2.170
+				text = "ᄌ"
+			intervals [16]:
+				xmin = 2.170
+				xmax = 2.310
+				text = "ᅯ"
+			intervals [17]:
+				xmin = 2.310
+				xmax = 2.800
+				text = "sp"
+			intervals [18]:
+				xmin = 2.800
+				xmax = 2.81859410430839
+				text = ""
