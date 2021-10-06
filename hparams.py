@@ -1,7 +1,7 @@
 import os
 ### kss ###
 dataset = "kss"
-data_path = os.path.join("/home/centos/qalab_KFS2/", dataset)
+data_path = os.path.join("/home/centos/qalab_KFS2/", dataset) #enter the directory where your data is present
 meta_name = "transcript.v.1.4.txt"	# "transcript.v.1.4.txt" or "transcript.v.1.3.txt" 
 textgrid_name = "TextGrid"
 
